@@ -33,9 +33,12 @@ Key Benefits:
 ---------------------------------------------------------------------
 Technologies Used
 ------------
-MongoDB: Database for storing user and product information.
-Express.js: Backend framework for building the server and API.
 React: Frontend library for building the user interface.
+
+MongoDB: Database for storing user and product information.
+
+Express.js: Backend framework for building the server and API.
+
 Node.js: Runtime environment for server-side JavaScript execution.
 
 -----------------------------------------------
