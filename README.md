@@ -1,54 +1,79 @@
-# Farm-flo
+# FarmCart
 
-A full-stack MERN (MongoDB, Express.js, React, Node.js) project designed specifically for farmers. Farm-flo is an innovative e-commerce platform that empowers farmers to buy and sell agricultural products with ease.
+FarmCart is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application that bridges the gap between farmers and buyers. It enables farmers to list, manage, and sell agricultural products online — all through a secure, easy-to-use platform.
 
----
+-------------------
+Problem Statement:
+  
+-  Indian farmers face multiple challenges that limit growth and profitability:
 
+- Limited Market Access and Buyer Reach
+
+- Unfair Pricing due to middlemen layers
+
+- Lack of Transparency in pricing and demand
+
+- High Costs from transport and broker fees
+
+- Sustainability & Growth Barriers caused by income instability and market dependence
+  -------------------------------------------------------------------------------------------------- 
+ Problem Solution:
+ 
+We propose a direct, transparent platform that connects farmers with buyers, eliminating intermediaries and reducing access costs.
+
+Key Benefits:
+- Reduced Costs: No brokers or unnecessary transport fees
+
+- Fair Pricing: Farmers set prices, ensuring better profits
+
+- Empowerment: Builds direct relationships with industry buyers
+
+- Sustainability: Supports long-term agricultural viability and community upliftment
+---------------------------------------------------------------------
+Technologies Used
+------------
+MongoDB: Database for storing user and product information.
+Express.js: Backend framework for building the server and API.
+React: Frontend library for building the user interface.
+Node.js: Runtime environment for server-side JavaScript execution.
+-----------------------------------------------
 ## Features
-
-- **User Authentication**: Secure user login and registration system with JWT-based authentication.
-- **CRUD Operations**: Users can create, read, update, and delete products or services.
-- **Responsive Design**: Fully responsive design for seamless user experience on desktop and mobile devices.
-- **Product Management**: Farmers can list products, manage inventory, and track orders.
-- **Admin Dashboard**: Manage users, products, and orders efficiently.
-- **Order Tracking**: Real-time order status updates for buyers and sellers.
-- **Email Notifications**: Integrated email alerts for important updates using Mailtrap.
-- **Secure Payment Gateway**: Integrate popular payment gateways for safe transactions (future scope).
-
----
-
-## Folder Structure
+-------------
+- 🔐 User Authentication**: Secure user login and registration system with JWT-based authentication.
+- 🛠️ CRUD Operations**: Users can create, read, update, and delete products or services.
+- 📱 Responsive Design**: Fully responsive design for seamless user experience on desktop and mobile devices.
+- 📦 Product Management**: Farmers can list products, manage inventory, and track orders.
+- 📊 Admin Dashboard**: Manage users, products, and orders efficiently.
+- 📦 Order Tracking**: Real-time order status updates for buyers and sellers.
+- 📧 Email Notifications**: Integrated email alerts for important updates using Mailtrap.
+- 💳 Secure Payment Gateway**: Integrate popular payment gateways for safe transactions (future scope).
+--------------------
+📁 Folder Structure
 
 ```
-root
-├── frontend/        # Frontend React application
-│   ├── src/         # React source files
+FarmCart/
+├── frontend/        # React Frontend
+│   ├── src/         # Source files
 │   ├── public/      # Static assets
 │   └── package.json # Frontend dependencies
-├── backend/         # Backend Node.js application
-│   ├── models/      # MongoDB schemas
-│   ├── routes/      # API routes
-│   ├── controllers/ # Logic for handling requests
-│   ├── config/      # Configuration files (e.g., database connection)
+├── backend/         # Node.js Backend
+│   ├── models/      # Mongoose schemas
+│   ├── routes/      # Express routes
+│   ├── controllers/ # Request handlers
+│   ├── config/      # DB and server config
 │   └── package.json # Backend dependencies
 └── README.md        # Project documentation
+
 ```
-
----
-
+----------------------
 ## Prerequisites
-
 Ensure you have the following installed on your system:
-
 - **Node.js** (v16.x or later)
 - **npm** or **yarn**
 - **MongoDB** (running locally or using a cloud-based service like MongoDB Atlas)
 - **Git**
-
----
-
+-----------------------------------------------
 ## Getting Started
-
 ### 1. Fork and Star the Repository
 - Click on the **Fork** button at the top-right corner of this repository to create your own copy.
 - If you find this project useful, don’t forget to give it a **Star**!
@@ -56,7 +81,7 @@ Ensure you have the following installed on your system:
 ### 2. Clone the Repository
 ```bash
 git clone <forked repository URL>
-cd Farm-flo
+cd FarmCart
 ```
 
 ### 3. Install Dependencies
@@ -64,6 +89,7 @@ cd Farm-flo
 #### Backend
 Navigate to the backend directory and install dependencies:
 ```bash
+cd backend
 npm install
 ```
 
@@ -95,17 +121,17 @@ npm run dev
 
 #### Backend
 To start the Node.js server:
+node server.js
 ```bash
 nodemon
 ```
 
 ---
 
-## Contributing
+🤝 Contributing
 
 We welcome contributions from everyone! Here’s how you can help:
 
-1. **Report Bugs**: Found a bug? [Open an issue](https://github.com/desujoy/kushiro/issues) and let us know.
 2. **Suggest Features**: Have a feature in mind? Feel free to suggest it.
 3. **Submit Pull Requests**: If you’d like to contribute code, follow these steps:
     - Fork the repository.
@@ -125,18 +151,13 @@ We welcome contributions from everyone! Here’s how you can help:
 - **Mobile App**: Develop a dedicated mobile application for iOS and Android.
 
 ---
-
-## Support
-
-If you encounter any issues during installation or usage, feel free to reach out by opening an issue or contacting the repository maintainer.
-
+Group Members
+-----------------------------
+Bikalp Shukla (Team Leader)
+Aditya kumar
+DIVYANSHI VERMA
+BHUMIKA SONARE
+ANAMIKA ANKOLNERKAR
+----------------------------
+Thank you😊
 ---
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Happy Coding! :seedling:
-
