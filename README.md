@@ -160,10 +160,14 @@ Group Members
 -----------------------------
 
 Bikalp Shukla (Team Leader)
+
 Aditya kumar
-DIVYANSHI VERMA
-BHUMIKA SONARE
-ANAMIKA ANKOLNERKAR
+
+Divyanshi Verma
+
+Bhumika Sonare
+
+Anamika Ankolnerkar
 
 ----------------------------
 
