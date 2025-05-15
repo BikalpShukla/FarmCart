@@ -16,6 +16,7 @@ Problem Statement:
 - High Costs from transport and broker fees
 
 - Sustainability & Growth Barriers caused by income instability and market dependence
+  
   -------------------------------------------------------------------------------------------------- 
  Problem Solution:
  
@@ -36,6 +37,7 @@ MongoDB: Database for storing user and product information.
 Express.js: Backend framework for building the server and API.
 React: Frontend library for building the user interface.
 Node.js: Runtime environment for server-side JavaScript execution.
+
 -----------------------------------------------
 ## Features
 -------------
@@ -153,11 +155,14 @@ We welcome contributions from everyone! Here’s how you can help:
 ---
 Group Members
 -----------------------------
+
 Bikalp Shukla (Team Leader)
 Aditya kumar
 DIVYANSHI VERMA
 BHUMIKA SONARE
 ANAMIKA ANKOLNERKAR
+
 ----------------------------
+
 Thank you😊
----
+
