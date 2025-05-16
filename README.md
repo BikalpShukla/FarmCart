@@ -126,14 +126,13 @@ npm run dev
 
 #### Backend
 To start the Node.js server:
-node server.js
 ```bash
-nodemon
+node server.js
 ```
 
 ---
 
-🤝 Contributing
+#🤝 Contributing
 
 We welcome contributions from everyone! Here’s how you can help:
 
@@ -156,7 +155,7 @@ We welcome contributions from everyone! Here’s how you can help:
 - **Mobile App**: Develop a dedicated mobile application for iOS and Android.
 
 ---
-Group Members
+# Group Members
 -----------------------------
 
 Bikalp Shukla (Team Leader)
