@@ -132,7 +132,7 @@ node server.js
 
 ---
 
-#🤝 Contributing
+# Contributing
 
 We welcome contributions from everyone! Here’s how you can help:
 
