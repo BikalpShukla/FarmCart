@@ -3,7 +3,7 @@
 FarmCart is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application that bridges the gap between farmers and buyers. It enables farmers to list, manage, and sell agricultural products online — all through a secure, easy-to-use platform.
 
 -------------------
-Problem Statement:
+# Problem Statement:
   
 -  Indian farmers face multiple challenges that limit growth and profitability:
 
@@ -18,7 +18,7 @@ Problem Statement:
 - Sustainability & Growth Barriers caused by income instability and market dependence
   
   -------------------------------------------------------------------------------------------------- 
- Problem Solution:
+# Problem Solution:
  
 We propose a direct, transparent platform that connects farmers with buyers, eliminating intermediaries and reducing access costs.
 
@@ -31,7 +31,7 @@ Key Benefits:
 
 - Sustainability: Supports long-term agricultural viability and community upliftment
 ---------------------------------------------------------------------
-Technologies Used
+# Technologies Used
 ------------
 React: Frontend library for building the user interface.
 
