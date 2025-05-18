@@ -53,6 +53,15 @@ Node.js: Runtime environment for server-side JavaScript execution.
 - 📧 Email Notifications**: Integrated email alerts for important updates using Mailtrap.
 - 💳 Secure Payment Gateway**: Integrate popular payment gateways for safe transactions (future scope).
 --------------------
+## Project Documentation
+
+ Project Reports Link- 
+https://drive.google.com/file/d/1cifx02KRvweawADFJURHGkLwnn9ActtC/view?usp=sharing
+
+project PPT Link- 
+https://docs.google.com/presentation/d/1PzjadLiqhRCHf9bnQsZ6z8PNt8bwk2qt/edit?usp=sharing&ouid=111262436898244046585&rtpof=true&sd=true
+
+
 📁 Folder Structure
 
 ```
